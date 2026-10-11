@@ -1,6 +1,6 @@
 # Experiment Log — GRU
 
-This log records the GRU experiments in `Copy_of_ML_CAPSTONE.ipynb`.
+This log records the GRU experiments in `ML_CAPSTONE.ipynb`.
 
 > Cell numbers below are the **one-based notebook cell positions** in the uploaded notebook.
 
