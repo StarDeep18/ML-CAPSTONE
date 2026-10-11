@@ -1,6 +1,6 @@
-# Experiment Log — Logistic Regression
+# Experiment Log - Logistic Regression
 
-This log records the Logistic Regression work in `Copy_of_ML_CAPSTONE.ipynb`.
+This log records the Logistic Regression work in `ML_CAPSTONE.ipynb`.
 
 > Cell numbers below are the **one-based notebook cell positions** in the uploaded notebook, not Python execution-count values. Each entry names the actual cell purpose so the log remains traceable.
 
