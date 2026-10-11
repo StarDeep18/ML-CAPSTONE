@@ -1,6 +1,6 @@
-# Experiment Log — Random Forest
+# Experiment Log - Random Forest
 
-This log records the Random Forest work in `Copy_of_ML_CAPSTONE.ipynb`.
+This log records the Random Forest work in `ML_CAPSTONE.ipynb`.
 
 > Cell numbers below are the **one-based notebook cell positions** in the uploaded notebook.
 
