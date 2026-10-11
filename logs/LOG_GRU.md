@@ -1,4 +1,4 @@
-# Experiment Log — GRU
+# Experiment Log - GRU
 
 This log records the GRU experiments in `ML_CAPSTONE.ipynb`.
 
